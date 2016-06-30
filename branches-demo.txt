@@ -1,1 +1,3 @@
 This change entered initially in another-branch
+
+A second changed entered in another-branch
